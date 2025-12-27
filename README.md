@@ -1,8 +1,8 @@
 <div align="center">
-  
-  <a href="https://github.com/mananjani2102">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Manan+Jani;Frontend+Developer;React.js+Enthusiast;Content+Creator" alt="Typing SVG" />
-  </a>
+
+# Hi there, I'm Manan Jani! 👋
+
+### Frontend Developer | React.js Enthusiast | Content Creator
 
   <p>
     <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
