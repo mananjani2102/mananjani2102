@@ -1,7 +1,9 @@
 <div align="center">
 
+# Hi there, I'm Manan Jani! 👋
+
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Manan+Jani;Frontend+Developer;React.js+Enthusiast;Content+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Content+Creator;Building+Web+Apps" alt="Typing SVG" />
 </a>
 
 <p>
@@ -57,7 +59,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 
 <div align="center">
 
-<a href="https://github.com/mananjani2102">
+  <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" alt="Manan's Stats" />
   </a>
   
