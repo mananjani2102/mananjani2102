@@ -1,60 +1,82 @@
-<h1 align="center">Hi 👋, I'm Manan Jani</h1>
-<h3 align="center">Frontend Developer | Web Development Learner</h3>
+<div align="center">
+
+# Hi there, I'm Manan Jani! 👋
+
+### Frontend Developer | React.js Enthusiast | Content Creator
+
+<a href="https://github.com/mananjani2102">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Web+Applications;Creating+Tech+Content;Learning+New+Technologies" alt="Typing SVG" />
+</a>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@mananjani3195" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+</div>
 
 ---
 
 ### 🚀 About Me
-- 💻 Learning **Web Development** and building real-world projects  
-- 🔥 Focused on **HTML, CSS, JavaScript & React**
-- 📌 Actively growing my **GitHub, YouTube & LinkedIn presence**
-- 🎯 Goal: Build strong **technical proof**, not just resumes
+
+I am a passionate Web Developer focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey and projects on YouTube and LinkedIn.
+
+- 🔭 I’m currently working on **E-commerce Clones & React Applications**
+- 🌱 I’m currently learning **Advanced JavaScript & UI/UX Design**
+- 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani3195)
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**
 
 ---
 
-### 🔗 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/manan-jani-1a22443a3/
-- 📺 YouTube: https://www.youtube.com/@mananjani3195
-- 🧑‍💻 GitHub: https://github.com/mananjani2102
+### 🛠️ Tech Stack & Tools
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<br/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+</div>
 
 ---
 
 ### 📂 Featured Projects
-| Project | Live Demo | Repository |
-|-------|----------|------------|
-| GOLEM Website Clone | https://golem-web-clone.netlify.app/ | https://github.com/mananjani2102 |
-| NZXT Website Clone | https://nzxt-web-clone.netlify.app/ | https://github.com/mananjani2102 |
 
-*(More projects coming soon 🚀)*
-
----
-
-### 📈 GitHub Stats
-![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight)
-
-![Manan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight)
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **Acer Clone** | HTML, CSS | A responsive replica of the Acer homepage hero section. |
+| **Bose Clone** | HTML, CSS | A detailed clone of the Bose website layout. |
+| **Shure Clone** | HTML, CSS | Replication of Shure audio website including navigation. |
+| **Kidz World** | HTML, CSS | An e-commerce concept site for children's products. |
 
 ---
 
-### 📌 What I’m Working On
-- Improving JavaScript problem solving
-- Building unique projects beyond clones
-- Growing my technical presence on multiple platforms
+### 📊 GitHub Stats
 
----
+<div align="center">
 
-### ⭐ Long-Term Vision
-When someone searches **"Manan Jani"** on Google, they should find:
-- GitHub repositories  
-- YouTube videos  
-- LinkedIn activity  
+<img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight" alt="Manan Jani Stats" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 
-This is my **technical proof**, not just claims on a resume.
+</div>
 
----
-
-⭐ If you like my work, consider giving a **star** to my repositories!
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</div>
