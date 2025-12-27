@@ -36,11 +36,13 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 
 ### 🛠️ Tech Stack & Tools
 
-<table>
+<table width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>👨‍💻 Languages</h3>
-      <table>
+    <!-- CORE STACK -->
+    <td width="50%" valign="top" align="center">
+      <h3>Core Tools & Languages</h3>
+
+  <table>
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
@@ -60,10 +62,13 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
     </tr>
   </table>
-    </td>
-    <td align="center" width="50%">
-      <h3>⚙️ Tools & Frameworks</h3>
-      <table>
+</td>
+
+<!-- SUPPORTING STACK -->
+<td width="50%" valign="top" align="center">
+  <h3>Supporting / Familiar</h3>
+
+  <table>
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
@@ -77,7 +82,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
     </tr>
   </table>
-    </td>
+</td>
   </tr>
 </table>
 
