@@ -1,22 +1,22 @@
 <div align="center">
 
-# Hi there, I'm Manan Jani! 👋
+<a href="https://github.com/mananjani2102">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Manan+Jani;Frontend+Developer;React.js+Enthusiast;Content+Creator" alt="Typing SVG" />
+</a>
 
-### Frontend Developer | React.js Enthusiast | Content Creator
-
-  <p>
-    <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/@mananjani3195" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    &nbsp;
-    <a href="mailto:your_email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+<p>
+  <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@mananjani3195" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 </div>
 
 ---
@@ -32,11 +32,24 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,git,github,postman&perline=8" />
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>👨‍💻 Languages</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,python" />
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Tools & Frameworks</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,npm" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,7 +57,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 
 <div align="center">
 
-  <a href="https://github.com/mananjani2102">
+<a href="https://github.com/mananjani2102">
     <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180px" alt="Manan's Stats" />
   </a>
   
