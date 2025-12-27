@@ -54,8 +54,7 @@ I am a passionate Web Developer focused on building responsive and interactive w
 </div>
 
 <div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/mananjani2102/mananjani2102/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 <div align="center"> 
