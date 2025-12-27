@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 About Me
-- 💻 I am learning **Web Development** and building real-world projects  
+- 💻 Learning **Web Development** and building real-world projects  
 - 🔥 Focused on **HTML, CSS, JavaScript & React**
-- 📌 Actively improving my **GitHub, YouTube & LinkedIn presence**
+- 📌 Actively growing my **GitHub, YouTube & LinkedIn presence**
 - 🎯 Goal: Build strong **technical proof**, not just resumes
 
 ---
@@ -19,9 +19,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,git,github)
 
 ---
 
@@ -36,13 +34,9 @@
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight" />
-</p>
+![Manan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight)
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight" />
-</p>
+![Manan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight)
 
 ---
 
@@ -55,9 +49,9 @@
 
 ### ⭐ Long-Term Vision
 When someone searches **"Manan Jani"** on Google, they should find:
-- GitHub repositories
-- YouTube videos
-- LinkedIn activity
+- GitHub repositories  
+- YouTube videos  
+- LinkedIn activity  
 
 This is my **technical proof**, not just claims on a resume.
 
