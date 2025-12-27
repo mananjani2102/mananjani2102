@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Manan Jani</h1>
+<h3 align="center">Frontend Developer | Web Development Learner</h3>
 
-<!--
-**mananjani2102/mananjani2102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I am learning **Web Development** and building real-world projects  
+- 🔥 Focused on **HTML, CSS, JavaScript & React**
+- 📌 Actively improving my **GitHub, YouTube & LinkedIn presence**
+- 🎯 Goal: Build strong **technical proof**, not just resumes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔗 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/manan-jani-1a22443a3/
+- 📺 YouTube: https://www.youtube.com/@mananjani3195
+- 🧑‍💻 GitHub: https://github.com/mananjani2102
+
+---
+
+### 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+</p>
+
+---
+
+### 📂 Featured Projects
+| Project | Live Demo | Repository |
+|-------|----------|------------|
+| GOLEM Website Clone | https://golem-web-clone.netlify.app/ | https://github.com/mananjani2102 |
+| NZXT Website Clone | https://nzxt-web-clone.netlify.app/ | https://github.com/mananjani2102 |
+
+*(More projects coming soon 🚀)*
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight" />
+</p>
+
+---
+
+### 📌 What I’m Working On
+- Improving JavaScript problem solving
+- Building unique projects beyond clones
+- Growing my technical presence on multiple platforms
+
+---
+
+### ⭐ Long-Term Vision
+When someone searches **"Manan Jani"** on Google, they should find:
+- GitHub repositories
+- YouTube videos
+- LinkedIn activity
+
+This is my **technical proof**, not just claims on a resume.
+
+---
+
+⭐ If you like my work, consider giving a **star** to my repositories!
