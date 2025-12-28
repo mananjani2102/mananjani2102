@@ -96,17 +96,17 @@ I am currently building my personal brand by sharing my coding journey on YouTub
 <div align="center">
   
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=dracula&hide_border=true" height="160px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
   </a>
 
 </div>
