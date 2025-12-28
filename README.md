@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Manan%20Jani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Content%20Creator&descAlignY=55&descSize=25&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Manan%20Jani&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Content%20Creator&descAlignY=55&descSize=20&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
 
 <br/>
 <a href="https://github.com/mananjani2102">
@@ -28,71 +28,38 @@
 
 ### 🚀 About Me
 
-I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
-
-- 🔭 I’m currently working on **E-commerce Clones & React Applications**
-- 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
-- ⚡ Fun fact: **I am building a 360° online presence!**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<table width="100%" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <!-- CORE STACK -->
-    <td width="50%" valign="top" align="center">
-      <h3>Core Tools & Languages</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
-    </tr>
-  </table>
-</td>
-
-<!-- SUPPORTING STACK -->
-<td width="50%" valign="top" align="center">
-  <h3>Supporting / Familiar</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
-    </tr>
-  </table>
-</td>
-  </tr>
-</table>
----
-
-### 🔥 GitHub Activity
+<div align="center">
+  <p>
+    I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
+  </p>
+</div>
 
 <div align="center">
+  🔭 Working on **E-commerce Clones** | 🎥 Creating **YouTube Content** | 💬 Ask me about **React.js**
+</div>
+
+---
+
+<div align="center">
+  <h3>🏆 Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mananjani2102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,cpp,python,git,github,figma,postman,vscode,npm&theme=dark&perline=6" />
+  
+</div>
+
+---
+
+<div align="center">
+  <h3>🔥 GitHub Activity</h3>
   
   <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -102,7 +69,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
@@ -112,9 +79,8 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 
 ---
 
-### 🐍 Contribution Graph
-
 <div align="center">
+  <h3>🐍 Contribution History</h3>
   <a href="https://github.com/mananjani2102">
     <img src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
