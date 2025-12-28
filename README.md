@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a11cb,2575fc&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4364F7,00C6FF&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
 
 <h1 align="center">Hi there, I'm Manan Jani! 👋</h1>
 <h3 align="center">Frontend Developer | React.js Expert | Content Creator</h3>
 
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2575fc&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4364F7&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -123,7 +123,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=6a11cb&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=4364F7&style=flat" alt="Profile Views" /> 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -135,4 +135,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a11cb,2575fc&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4364F7,00C6FF&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
