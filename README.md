@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=280&section=header&text=Manan%20Jani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20YouTuber&descAlignY=55&descSize=25&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=280&section=header&text=Manan%20Jani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Content%20Creator&descAlignY=55&descSize=25&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
 
+<br/>
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Interactive+Websites;Creating+Tech+Content;Mastering+React.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=435&lines=Building+Interactive+Web+Apps;Creating+Tech+Content;Mastering+React.js" alt="Typing SVG" />
 </a>
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
@@ -16,7 +18,7 @@
   </a>
   &nbsp;
   <a href="mailto:your_email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -86,8 +88,6 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 </td>
   </tr>
 </table>
-
-
 ---
 
 ### 🔥 GitHub Activity
@@ -121,7 +121,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00c6ff&style=flat" alt="Profile Views" /> 
 </div>
 
 ---
