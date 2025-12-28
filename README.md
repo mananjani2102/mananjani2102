@@ -130,7 +130,7 @@ I am currently building my personal brand by sharing my coding journey on YouTub
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote of the Day" />
   </a>
 </div>
 
