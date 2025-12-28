@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=200&section=header_v3&width=100%" alt="Header Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=200&section=header_v2&width=100%" alt="Header Wave" width="100%" />
 
 <h1 align="center">Hi there, I'm Manan Jani! 👋</h1>
 <h3 align="center">Frontend Developer | React.js Expert | Content Creator</h3>
@@ -30,14 +30,13 @@
 
 ### 🚀 About Me
 
-> [!NOTE]
-> I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
+I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**.<br>
+I am currently building my personal brand by sharing my coding journey on YouTube.
 
-> [!TIP]
-> 🔭 I’m currently working on **E-commerce Clones & React Applications**
-> 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
-> 💬 Ask me about **HTML, CSS, JavaScript, and React**
-> ⚡ Fun fact: **I am building a 360° online presence!**
+- 🔭 I’m currently working on **E-commerce Clones & React Applications**
+- 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**
+- ⚡ Fun fact: **I am building a 360° online presence!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
@@ -97,17 +96,17 @@
 <div align="center">
   
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=dracula&hide_border=true" height="160px" alt="Top Languages" />
   </a>
 
 </div>
@@ -131,8 +130,8 @@
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=100&section=footer_v3&width=100%" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=100&section=footer_v2&width=100%" alt="Footer Wave" width="100%" />
