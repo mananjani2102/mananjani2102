@@ -1,10 +1,24 @@
 <div align="center">
 
-# Hi there, I'm Manan Jani! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35&height=280&section=header&text=Manan%20Jani&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20YouTuber&descAlignY=55&descSize=25&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
 
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React.js+Enthusiast;Content+Creator;Building+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Building+Interactive+Websites;Creating+Tech+Content;Mastering+React.js" alt="Typing SVG" />
 </a>
+
+<p>
+  <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@mananjani2102" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &nbsp;
+  <a href="mailto:your_email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 </div>
 
@@ -18,25 +32,6 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 - 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
 - 💬 Ask me about **HTML, CSS, JavaScript, and React**
 - ⚡ Fun fact: **I am building a 360° online presence!**
-
----
-
-<div align="center">
-  <h3>🌐 Connect with Me</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.youtube.com/@mananjani2102" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    &nbsp;
-    <a href="mailto:your_email@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
-</div>
 
 ---
 
@@ -68,52 +63,27 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
     </tr>
   </table>
-</td>
-
-<!-- SUPPORTING STACK -->
-<td width="50%" valign="top" align="center">
-  <h3>Supporting / Familiar</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
-    </tr>
-  </table>
-</td>
-  </tr>
-</table>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Activity
 
 <div align="center">
-
-  <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=dark&hide_border=true" height="180px" alt="Manan's Stats" />
-  </a>
   
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=dark&hide_border=true" height="180px" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
+  
+  <br/>
+  <br/>
 
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" alt="Manan's Stats" />
   </a>
+  <a href="https://github.com/mananjani2102">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+  </a>
+
 </div>
 
 ---
@@ -127,7 +97,7 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=2196F3&style=flat" alt="Profile Views" /> 
 </div>
 
 ---
@@ -135,6 +105,6 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
   </a>
 </div>
