@@ -28,8 +28,10 @@
 
 ### 🚀 About Me
 
+> [!NOTE]
 > I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
 
+> [!NOTE]
 > 🔭 I’m currently working on **E-commerce Clones & React Applications**
 > 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
 > 💬 Ask me about **HTML, CSS, JavaScript, and React**
@@ -42,7 +44,6 @@
 <div align="center">
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
-    <!-- CORE STACK -->
     <td width="50%" valign="top" align="center">
       <h3>Core Tools & Languages</h3>
 
@@ -68,7 +69,6 @@
   </table>
 </td>
 
-<!-- SUPPORTING STACK -->
 <td width="50%" valign="top" align="center">
   <h3>Supporting / Familiar</h3>
 
@@ -105,7 +105,7 @@
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
