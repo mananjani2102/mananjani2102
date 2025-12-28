@@ -26,20 +26,21 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🚀 About Me
 
 > [!NOTE]
-> I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
+> I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**.<br>
+> I am currently building my personal brand by sharing my coding journey on YouTube.
 
 > [!TIP]
-> 🔭 I’m currently working on **E-commerce Clones & React Applications**
-> 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
-> 💬 Ask me about **HTML, CSS, JavaScript, and React**
+> 🔭 I’m currently working on **E-commerce Clones & React Applications**<br>
+> 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)<br>
+> 💬 Ask me about **HTML, CSS, JavaScript, and React**<br>
 > ⚡ Fun fact: **I am building a 360° online presence!**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -90,7 +91,7 @@
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🔥 GitHub Activity
 
@@ -112,7 +113,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🐍 Contribution History
 
@@ -126,7 +127,7 @@
   <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00B2FF&style=flat" alt="Profile Views" /> 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
