@@ -63,6 +63,30 @@ I am a passionate **Frontend Developer** focused on building responsive and inte
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
     </tr>
   </table>
+</td>
+
+<!-- SUPPORTING STACK -->
+<td width="50%" valign="top" align="center">
+  <h3>Supporting / Familiar</h3>
+
+  <table>
+    <tr>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+    </tr>
+  </table>
+</td>
+  </tr>
+</table>
+
 
 ---
 
