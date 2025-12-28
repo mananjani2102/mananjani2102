@@ -26,7 +26,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
+</div>
 
 ### 🚀 About Me
 
@@ -39,7 +41,9 @@
 > 💬 Ask me about **HTML, CSS, JavaScript, and React**
 > ⚡ Fun fact: **I am building a 360° online presence!**
 
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
+</div>
 
 ### 🛠️ Tech Stack
 
@@ -90,7 +94,9 @@
 </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
+</div>
 
 ### 🔥 GitHub Activity
 
@@ -112,7 +118,9 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
+</div>
 
 ### 🐍 Contribution History
 
@@ -126,7 +134,9 @@
   <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00B2FF&style=flat" alt="Profile Views" /> 
 </div>
 
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.gif" width="100%">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
+</div>
 
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
