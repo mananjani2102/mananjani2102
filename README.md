@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=005C97,363795&height=250&section=header&text=Manan%20Jani&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20Expert&descAlignY=55&descSize=20&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a11cb,2575fc&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
 
-<br/>
+<h1 align="center">Hi there, I'm Manan Jani! 👋</h1>
+<h3 align="center">Frontend Developer | React.js Expert | Content Creator</h3>
+
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=363795&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2575fc&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -95,17 +97,17 @@
 <div align="center">
   
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=dracula&hide_border=true" height="160px" alt="Top Languages" />
   </a>
 
 </div>
@@ -121,7 +123,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=363795&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=6a11cb&style=flat" alt="Profile Views" /> 
 </div>
 
 ---
@@ -129,8 +131,8 @@
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote of the Day" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=005C97,363795&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a11cb,2575fc&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
