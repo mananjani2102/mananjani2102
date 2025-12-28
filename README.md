@@ -30,15 +30,13 @@
 
 ### 🚀 About Me
 
-> [!NOTE]
-> I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**.<br>
-> I am currently building my personal brand by sharing my coding journey on YouTube.
+I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**.<br>
+I am currently building my personal brand by sharing my coding journey on YouTube.
 
-> [!TIP]
-> 🔭 I’m currently working on **E-commerce Clones & React Applications**<br>
-> 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)<br>
-> 💬 Ask me about **HTML, CSS, JavaScript, and React**<br>
-> ⚡ Fun fact: **I am building a 360° online presence!**
+- 🔭 I’m currently working on **E-commerce Clones & React Applications**
+- 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
+- 💬 Ask me about **HTML, CSS, JavaScript, and React**
+- ⚡ Fun fact: **I am building a 360° online presence!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
