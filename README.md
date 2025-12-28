@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,00B2FF&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
 
 <h1 align="center">Hi there, I'm Manan Jani! 👋</h1>
 <h3 align="center">Frontend Developer | React.js Expert | Content Creator</h3>
@@ -135,4 +135,4 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,00B2FF&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00B2FF,00FFFF&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
