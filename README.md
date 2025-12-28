@@ -28,31 +28,19 @@
 
 ### 🚀 About Me
 
-<div align="center">
-  <p>
-    I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
-  </p>
-</div>
+> I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
 
-<div align="center">
-  🔭 Working on **E-commerce Clones** | 🎥 Creating **YouTube Content** | 💬 Ask me about **React.js**
-</div>
+> 🔭 I’m currently working on **E-commerce Clones & React Applications**
+> 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
+> 💬 Ask me about **HTML, CSS, JavaScript, and React**
+> ⚡ Fun fact: **I am building a 360° online presence!**
 
 ---
 
-<div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mananjani2102&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-</div>
-
----
+### 🛠️ Tech Stack
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
-  
- <table width="100%" cellspacing="0" cellpadding="0" align="center">
+<table width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <!-- CORE STACK -->
     <td width="50%" valign="top" align="center">
@@ -101,13 +89,13 @@
 </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
+### 🔥 GitHub Activity
+
 <div align="center">
-  <h3>🔥 GitHub Activity</h3>
   
   <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -127,8 +115,9 @@
 
 ---
 
+### 🐍 Contribution History
+
 <div align="center">
-  <h3>🐍 Contribution History</h3>
   <a href="https://github.com/mananjani2102">
     <img src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
