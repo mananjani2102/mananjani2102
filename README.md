@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=250&section=header&text=Manan%20Jani&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Content%20Creator&descAlignY=55&descSize=20&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007CF0,00DFD8&height=250&section=header&text=Manan%20Jani&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React.js%20Expert&descAlignY=55&descSize=20&fontColor=ffffff" alt="Manan Jani Header" width="100%" />
 
 <br/>
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00c6ff&center=true&vCenter=true&width=435&lines=Building+Interactive+Web+Apps;Creating+Tech+Content;Mastering+React.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00DFD8&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -24,20 +24,20 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🚀 About Me
 
-> [!NOTE]
+> [!TIP]
 > I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**. I am currently building my personal brand by sharing my coding journey on YouTube.
 
-> [!NOTE]
+> [!TIP]
 > 🔭 I’m currently working on **E-commerce Clones & React Applications**
 > 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
 > 💬 Ask me about **HTML, CSS, JavaScript, and React**
 > ⚡ Fun fact: **I am building a 360° online presence!**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -46,74 +46,71 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>Core Tools & Languages</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
-    </tr>
-  </table>
-</td>
-
-<td width="50%" valign="top" align="center">
-  <h3>Supporting / Familiar</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
-    </tr>
-  </table>
-</td>
+      <table>
+        <tr>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
+        </tr>
+        <tr>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
+        </tr>
+        <tr>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>Supporting / Familiar</h3>
+      <table>
+        <tr>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
+          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
+        </tr>
+        <tr>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
+          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🔥 GitHub Activity
 
 <div align="center">
   
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=react&hide_border=true" alt="GitHub Streak" />
   </a>
   
   <br/>
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=react&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=react&hide_border=true" height="160px" alt="Top Languages" />
   </a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506556ee.png" width="100%">
 
 ### 🐍 Contribution History
 
@@ -124,7 +121,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00c6ff&style=flat" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00DFD8&style=flat" alt="Profile Views" /> 
 </div>
 
 ---
@@ -132,6 +129,8 @@
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Quote of the Day" />
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007CF0,00DFD8&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
