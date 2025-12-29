@@ -103,7 +103,7 @@ I am currently building my personal brand by sharing my coding journey on YouTub
   <br/>
 
   <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="160px" alt="Manan's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&hide_border=true" height="160px" alt="Manan's Stats" />
   </a>
   <a href="https://github.com/mananjani2102">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
@@ -130,7 +130,7 @@ I am currently building my personal brand by sharing my coding journey on YouTub
 <div align="center">
   <h3>💡 Daily Inspiration</h3>
   <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the Day" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
   </a>
 </div>
 
