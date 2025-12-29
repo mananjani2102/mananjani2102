@@ -102,13 +102,6 @@ I am currently building my personal brand by sharing my coding journey on YouTub
   <br/>
   <br/>
 
-  <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&theme=radical&hide_border=true" height="160px" alt="Manan's Stats" />
-  </a>
-  <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&theme=radical&hide_border=true" height="160px" alt="Top Languages" />
-  </a>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
