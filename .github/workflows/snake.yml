@@ -1,24 +1,33 @@
 name: Generate Snake
 
 on:
+  # Har 24 ghante mein automatic chalega
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */24 * * *" 
+  
+  # Manually run karne ke liye
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    # 🚨 YE LINE MISSING THI - ISKE BINA ERROR AATA HAI
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
-      
+      - uses: actions/checkout@v3
+
       - uses: Platane/snk@v3
         with:
-          github_user_name: mananjani2102
+          # Tumhara username automatic aa jayega
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
