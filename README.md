@@ -91,21 +91,6 @@ I am currently building my personal brand by sharing my coding journey on YouTub
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🔥 GitHub Activity
-
-<div align="center">
-  
-  <a href="https://github.com/mananjani2102">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  
-  <br/>
-  <br/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-
 ### 🐍 Contribution History
 
 <div align="center">
