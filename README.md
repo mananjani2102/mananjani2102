@@ -2,14 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
 
-<h1 align="center">Hi there, I'm Manan Jani! 👋</h1>
-<h3 align="center">Frontend Developer | React.js Expert | Content Creator</h3>
+<h1>Hi there, I'm Manan Jani!</h1>
+<h3>Frontend Developer | React.js Specialist | Content Creator</h3>
 
 <a href="https://github.com/mananjani2102">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Creating+Tech+Content;Mastering+Modern+UI%2FUX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Creating+Tech+Content+on+YouTube;Crafting+Modern+User+Experiences" alt="Typing SVG" />
 </a>
-<br/>
 
+<br/><br/>
+
+### Visit My Portfolio
+<a href="https://manan-jani.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00B2FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+### Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,88 +35,74 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🚀 About Me
+## About Me
 
-I am a passionate **Frontend Developer** focused on building responsive and interactive websites using **React.js**.<br>
-I am currently building my personal brand by sharing my coding journey on YouTube.
+I'm a passionate **Frontend Developer** specializing in building responsive, user-friendly web applications with **React.js**. I combine technical expertise with creative problem-solving to deliver exceptional digital experiences.
 
-- 🔭 I’m currently working on **E-commerce Clones & React Applications**
-- 🎥 I create tech content on [YouTube](https://www.youtube.com/@mananjani2102)
-- 💬 Ask me about **HTML, CSS, JavaScript, and React**
-- ⚡ Fun fact: **I am building a 360° online presence!**
+```javascript
+const mananJani = {
+    location: "Gujarat, India",
+    currentFocus: "Frontend Development & Content Creation",
+    portfolio: "https://manan-jani.netlify.app/",
+    learning: ["Advanced React Patterns", "Modern UI/UX", "Full Stack Development"],
+    askMeAbout: ["React", "JavaScript", "Web Development", "Tech Content"]
+};
+```
+
+- Currently working on **E-commerce Applications & React Projects**
+- Creating tech content on [YouTube](https://www.youtube.com/@mananjani2102)
+- Learning **Full Stack Development** with MERN Stack
+- Ask me about **React.js, JavaScript, HTML/CSS, and Frontend Architecture**
+- Building a complete online presence, one commit at a time!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🛠️ Tech Stack
+## Tech Stack
+
+**Frontend Development**
+- React.js, JavaScript (ES6+), HTML5, CSS3
+- Tailwind CSS, Bootstrap, Material-UI
+- Redux, Context API for State Management
+
+**Backend & Database**
+- Node.js, Express.js
+- MongoDB, REST APIs
+
+**Tools & Technologies**
+- Git & GitHub, VS Code
+- Postman, Figma
+- Docker (Familiar)
+
+**Programming Languages**
+- JavaScript, C++, Java (Familiar)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+## Contribution Graph
 
 <div align="center">
-<table width="100%" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>Core Tools & Languages</h3>
-      <table>
-        <tr>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
-        </tr>
-        <tr>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
-        </tr>
-        <tr>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>Supporting / Familiar</h3>
-      <table>
-        <tr>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
-          <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
-        </tr>
-        <tr>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-          <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+  <img src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🐍 Contribution History
+## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/mananjani2102">
-    <img src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00B2FF&style=flat" alt="Profile Views" /> 
-</div>
+Check out my [Portfolio](https://manan-jani.netlify.app/) for a complete showcase of my work!
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <div align="center">
-  <h3>💡 Daily Inspiration</h3>
-  <a href="https://github.com/mananjani2102">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-  </a>
+  <h3>Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=mananjani2102&label=Profile%20Views&color=00B2FF&style=flat" alt="Profile Views" />
+  
+  <br/><br/>
+  
+  <p><i>Open to collaboration and freelance opportunities!</i></p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=100&section=footer&width=100%" alt="Footer Wave" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=120&section=footer&width=100%" alt="Footer Wave" width="100%" />
