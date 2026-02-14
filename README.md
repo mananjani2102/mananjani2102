@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Creating+Tech+Content+on+YouTube;Crafting+Modern+User+Experiences" alt="Typing SVG" />
 </a>
 
-<br/><br/>
 
 ### Visit My Portfolio
 <a href="https://manan-jani.netlify.app/" target="_blank">
