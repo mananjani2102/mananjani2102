@@ -80,7 +80,11 @@ const mananJani = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mananjani2102&theme=react-dark&color=00B2FF&line=00B2FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
