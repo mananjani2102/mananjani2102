@@ -80,7 +80,7 @@ const mananJani = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mananjani2102/mananjani2102/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mananjani2102&theme=react-dark&color=00B2FF&line=00B2FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
