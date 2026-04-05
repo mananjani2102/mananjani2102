@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=200&section=header&width=100%" alt="Header Wave" width="100%" />
 
 <h1>Hi there, I'm Manan Jani!</h1>
-<h3>Frontend Developer | React.js Specialist | Content Creator</h3>
+<h3>full stack Developer | React.js Specialist | Content Creator</h3>
 
 <a href="https://github.com/mananjani2102">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Creating+Tech+Content+on+YouTube;Crafting+Modern+User+Experiences" alt="Typing SVG" />
