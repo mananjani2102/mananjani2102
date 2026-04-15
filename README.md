@@ -125,12 +125,12 @@ const mananJani = {
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mananjani2102&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mananjani2102&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mananjani2102&theme=nord_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mananjani2102&theme=nord_dark" />
 
 <br/><br/>
 
-<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=github_dark&utcOffset=5.5" />
+<img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=nord_dark&utcOffset=5.5" />
 
 <br/><br/>
 
@@ -169,30 +169,30 @@ const mananJani = {
 <div align="center">
 
 <a href="https://manan-jani.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Visit%20My%20Portfolio%20%E2%86%92-00B2FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=003A8C" height="44" />
+  <img src="https://img.shields.io/badge/manan--jani.netlify.app-Portfolio%20%E2%80%94%20Projects%20%7C%20Resume%20%7C%20Contact-00B2FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=003366" height="42" />
 </a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:transparent,50:0055AA,100:transparent&height=2" width="50%" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/manan-jani-1a22443a3/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1F3D" height="40" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0088DD?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=001F4D" height="42" />
 </a>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/@mananjani2102" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Watch%20Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=2A0A0A" height="40" />
+  <img src="https://img.shields.io/badge/YouTube-React%20%7C%20JS%20%7C%20Web%20Dev-0055AA?style=for-the-badge&logo=youtube&logoColor=white&labelColor=003366" height="42" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:your_personal_email@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2A100A" height="40" />
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mbjani08@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-00B2FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=002255" height="42" />
 </a>
 
 <br/><br/>
 
-<sub>Open to collaborations &nbsp;·&nbsp; Freelance projects &nbsp;·&nbsp; Full-time opportunities</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003366,33:0055AA,66:0088DD,100:00B2FF&height=2" width="80%" />
+
+<br/>
+
+<sub>Open to Collaborations &nbsp;·&nbsp; Freelance Projects &nbsp;·&nbsp; Full-time Roles</sub>
 
 </div>
 
