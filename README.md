@@ -198,9 +198,9 @@ Open To     :  Collaborations · Freelance · Full-time Roles
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&hide_border=false&border_color=0055AA&bg_color=0D1117&title_color=00B2FF&icon_color=0088DD&text_color=C9D1D9&rank_icon=letter&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=nord_dark&utcOffset=5.5&v=20260618" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&hide_border=false&border_color=0055AA&bg_color=0D1117&title_color=00B2FF&icon_color=0088DD&text_color=C9D1D9&rank_icon=letter&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
+&nbsp;
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=nord_dark&utcOffset=5.5&v=20260618" />
 
 <br/><br/>
 
