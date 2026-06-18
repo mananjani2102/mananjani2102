@@ -204,7 +204,7 @@ Open To     :  Collaborations · Freelance · Full-time Roles
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=mananjani2102&hide_border=false&border=0055AA&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=mananjani2102&hide_border=false&border=0055AA&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10&v=2026061801" />
 
 <br/><br/>
 
