@@ -198,23 +198,20 @@ Open To     :  Collaborations · Freelance · Full-time Roles
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mananjani2102&show_icons=true&hide_border=false&border_color=0055AA&bg_color=0D1117&title_color=00B2FF&icon_color=0088DD&text_color=C9D1D9&rank_icon=letter&border_radius=10&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<!-- Yahan maine naya working server add kiya hai -->
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mananjani2102&show_icons=true&hide_border=false&border_color=0055AA&bg_color=0D1117&title_color=00B2FF&icon_color=0088DD&text_color=C9D1D9&rank_icon=letter&border_radius=10" />
 &nbsp;
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=nord_dark&utcOffset=5.5&v=20260618" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mananjani2102&theme=nord_dark&utcOffset=5.5" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=mananjani2102&hide_border=false&border=0055AA&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10&v=2026061801" />
+<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=mananjani2102&hide_border=false&border=0055AA&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF&sideLabels=C9D1D9&dates=666666&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=0D1117&border_radius=10&random=1" />
 
 <br/><br/>
 
 <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=mananjani2102&bg_color=0D1117&color=00B2FF&line=0088DD&point=FFFFFF&area=true&area_color=003366&hide_border=true&radius=6" />
 
 </div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055AA,100:00B2FF&height=2" width="100%" />
 
 <br/>
 
