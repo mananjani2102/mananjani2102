@@ -2,7 +2,6 @@ name: Generate Snake
 
 on:
   schedule:
-    # Ye roz raat 12 baje apne aap chalega
     - cron: "0 0 * * *"
   
   workflow_dispatch:
@@ -11,6 +10,9 @@ on:
     branches:
     - main
     - master
+
+permissions:
+  contents: write
 
 jobs:
   generate:
