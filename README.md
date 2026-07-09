@@ -68,7 +68,7 @@ Open To     :  Collaborations · Freelance · Full-time Roles
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B2FF&text_color=C9D1D9&border_radius=8&langs_count=6&cache_seconds=1800" width="100%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mananjani2102&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B2FF&text_color=C9D1D9&border_radius=8&langs_count=6" width="100%" />
 
 <br/><br/>
 
